@@ -1,0 +1,6 @@
+Statement of Originality
+
+I, Robert Hereth, promise that 95% of the code written for this assignment was written by me. Sources include:
+
+- https://www.tutorialspoint.com/python/tk_button.htm
+- https://docs.python.org/3/library/tkinter.messagebox.html
